@@ -58,8 +58,8 @@ def read_tasks(tsv_f):
     return [tuple(x) for x in df.to_records(index=False)]
 
 def load_model():
-    print("Importing the model from model.pkl")
-    with open(os.path.join(os.path.dirname(__file__), '../model.pkl'), 'rb') as f:
+    print("Importing the model from model.v2.pkl")
+    with open(os.path.join(os.path.dirname(__file__), '../model.v2.pkl'), 'rb') as f:
         return pickle.load(f)
 
 def init_spacy():
