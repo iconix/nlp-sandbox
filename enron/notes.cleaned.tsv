@@ -31,7 +31,7 @@ Confirmation No: 0092633200	neg
 GTD TO VI1798001231:/GX -0702:/AD -B	neg
 ------------------------------------------------------	neg
 If you wish to check or cancel your reservation,	neg
-visit http://www.adamsmark.com/resv/rescheck.html.	neg
+visit http://www.adamsmark.com/resv/rescheck.html.	pos
 General Reservations:        800-444-ADAM (2326)	neg
 Meeting Reservations:        800-766-MEET (6338)	neg
 International Reservations:  1-314-567-9000 Ext. 345	neg
@@ -137,7 +137,7 @@ cc: Paul Finken/Enron@EnronXGate, Mark Greenberg/NA/Enron@ENRON	neg
 Subject: NDA - GreenAsh Corporation	neg
 At the request of Paul Finken, I am attaching our proposed form of	neg
 Non-Disclosure Agreement.   If the enclosed meets with your approval, please	neg
-execute the agreement and return it to me via fax no. (713) 646-3490.  I will	neg
+execute the agreement and return it to me via fax no. (713) 646-3490.  I will	pos
 then have it executed by an officer of Enron.  If you have any comments or	neg
 questions please do not hesitate to call me at (713) 853-3399, or Mark	neg
 Greenberg, Senior Counsel, at (713) 345-8897.  We look forward to hearing	neg
@@ -933,7 +933,7 @@ risks were posted on the system, and none was traded, Mr.	neg
 Sweeney said.	neg
 Consequently, CATEX has become chiefly a "cash for cover"	neg
 exchange, he said, noting that the risks reinsured on the exchange	neg
-include property catastrophe coverage, aviation and liability	neg
+include property catastrophe coverage, aviation and liability	pos
 coverages. CATEX also trades industry loss warranties, where	neg
 coverage is triggered by an actual loss combined with an industry	neg
 loss over an agreed threshold.	neg
@@ -949,7 +949,7 @@ captives, Mr. Sweeney said.	neg
 "We obviously have a long way to go, but we are pretty satisfied	neg
 with what we have achieved so far," Mr. Sweeney said.	neg
 The exchange sees increased activity after major losses, as cedents	neg
-seek to buy replacement coverage to offset depletions in their	neg
+seek to buy replacement coverage to offset depletions in their	pos
 existing cover, he said. For example, Mr. Sweeney said, there was	neg
 a flurry of activity after the European windstorms in December last	neg
 year.	neg
@@ -1023,7 +1023,7 @@ crirticism is to emphasize the quality of Enron's risk amnageemnt system and	neg
 our strong risk amangeemnt culture.  Our claims regarding the strong risk management	neg
 technology and culture should be, however, supported  by reality.	neg
 It is critical that we continue to improve our risk management systems and also can	neg
-convince the external parties (stock analysts, creditors,  credit rating agencies) about	neg
+convince the external parties (stock analysts, creditors,  credit rating agencies) about	pos
 the quality of our financial technology. This can be done	neg
 through targeted disclosure of the elements of our technology, as we have done frequently in the past.	neg
 by reality.	neg
@@ -1056,13 +1056,13 @@ Another aspect of this problem is prioritization of different projects. In my vi
 some recent modification to the system tied up IT resources and were of marginal	neg
 usefulness (and in some case on questionable	neg
 understanding of mathematics). Of course, I can be wrong but there is was no systematic process to	neg
-bring these issues to the table, in a meeting involving all the concerned parties	neg
+bring these issues to the table, in a meeting involving all the concerned parties	pos
 and	neg
 This article from NYTimes.com	neg
 has been sent to you by louise@enron.com.	neg
 /-------------------- advertisement -----------------------\	neg
 Special Offer to NY Times customers:	neg
-Get FREE shipping on orders of $75 or more at Starbucks.com	neg
+Get FREE shipping on orders of $75 or more at Starbucks.com	pos
 http://www.starbucks.com/shop/category.asp?catalogFname=Starbucks&categoryFname=Gifts&ci=325	neg
 \----------------------------------------------------------/	neg
 Enron Paid Out 'Retention' Bonuses Before Bankruptcy Filing	neg
@@ -1142,10 +1142,10 @@ HOW TO ADVERTISE	neg
 ---------------------------------	neg
 For information on advertising in e-mail newsletters	neg
 or other creative advertising opportunities with The	neg
-New York Times on the Web, please contact Alyson	neg
-Racer at alyson@nytimes.com or visit our online media	neg
+New York Times on the Web, please contact Alyson	pos
+Racer at alyson@nytimes.com or visit our online media	pos
 kit at http://www.nytimes.com/adinfo	neg
-For general information about NYTimes.com, write to	neg
+For general information about NYTimes.com, write to	pos
 help@nytimes.com.	neg
 Copyright 2001 The New York Times Company	neg
 http://ersys.corp.enron.com/dpr/index.asp	neg
@@ -1288,8 +1288,8 @@ around, we won't bring you next time."	neg
 http://www.city.net/countries/canada/british_columbia/vancouver/?page=specialt	neg
 y_guides	neg
 www.enrononline.com	neg
-use the following link for enrononline: www.enrononline.com	neg
-use the following http:\\enrononline.com	neg
+use the following link for enrononline: www.enrononline.com	pos
+use the following http:\\enrononline.com	pos
 use the	neg
 http://www.enrononline.com	neg
 The canadian sap # is  p00565421	neg
@@ -1336,7 +1336,7 @@ We said, "Look at Rev. Jackson, he's jammin".	neg
 Well, anyway, talk to you later!	neg
 http://cagle.slate.msn.com/mondo/MondoEnron.asp	neg
 http://secure.energy.net/index.html	neg
-freeze: bridge	neg
+freeze: bridge	pos
 password: steelers	neg
 www.pira.com	neg
 gregory	neg

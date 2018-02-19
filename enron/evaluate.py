@@ -284,10 +284,17 @@ if __name__ == '__main__':
 
     JSON_FILE = 'notes.json'
     TSV_FILE = 'notes.tsv'
+    TSV_CLEANED_FILE = 'notes.cleaned.tsv'
 
     print('Loading test data')
-    json_to_tsv(JSON_FILE, TSV_FILE)
-    TASKS = read_tasks(TSV_FILE)
+    # use cleaned tsv if it exists
+    if not os.path.exists(TSV_CLEANED_FILE):
+        print(TSV_FILE)
+        json_to_tsv(JSON_FILE, TSV_FILE)
+        TASKS = read_tasks(TSV_FILE)
+    else:
+        print(TSV_CLEANED_FILE)
+        TASKS = read_tasks(TSV_CLEANED_FILE)
 
     print('Featurizing test data')
     NLP = init_spacy()
